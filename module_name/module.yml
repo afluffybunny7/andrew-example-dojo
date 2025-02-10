@@ -1,0 +1,4 @@
+name: module_name
+challenges:
+  - id : simple
+  name : Simple Print
