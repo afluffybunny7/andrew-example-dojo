@@ -1,4 +1,4 @@
-# module-name hello
+# module-name
 ## simple
 
 This challenge is named `simple`, and is located within module `module-name`.
