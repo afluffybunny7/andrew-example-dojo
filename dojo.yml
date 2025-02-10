@@ -1,0 +1,8 @@
+id: andrew_example_dojo
+name: Andrew's Example Dojo
+type: andrew
+award:
+  belt: black
+image: pwncollege/andrew-example-challenge
+modules:
+  - id: print-flag
