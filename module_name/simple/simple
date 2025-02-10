@@ -1,3 +1,0 @@
-with open("/flag", "r") as flag:
-    print(flag.readline().strip())
-
