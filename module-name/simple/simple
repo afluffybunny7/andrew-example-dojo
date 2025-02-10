@@ -1,2 +1,4 @@
+#!/usr/bin/exec-suid -- /usr/local/bin/python -I
+
 with open("/flag", "r") as flag:
     print(flag.readline().strip())
