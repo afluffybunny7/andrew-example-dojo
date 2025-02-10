@@ -5,4 +5,4 @@ award:
   belt: black
 image: pwncollege/andrew-example-challenge
 modules:
-  - id: print-flag
+  - id: module-name
