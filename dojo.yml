@@ -2,7 +2,7 @@ id: andrew-example-dojo
 name: Andrew's Example Dojo
 type: andrew
 award:
-  belt: black
+  belt: white
 image: pwncollege/andrew-example-challenge
 modules:
   - id: module-name
