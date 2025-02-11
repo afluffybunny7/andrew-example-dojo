@@ -1,6 +1,6 @@
 id: andrew-example-dojo
 name: Andrew's Example Dojo
-type: andrew
+type: course
 award:
   emoji: 😀
 image: pwncollege/challenge-simple
