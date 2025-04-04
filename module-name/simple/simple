@@ -1,4 +1,7 @@
-#!/usr/bin/exec-suid -- /usr/local/bin/python -I
+#!/usr/bin/exec-suid -- /usr/bin/python3 -I
+from os import setreuid, geteuid
+
 setreuid(geteuid(), -1)
+
 with open("/flag") as f:
     print(f.read())
